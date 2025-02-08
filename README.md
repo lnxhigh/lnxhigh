@@ -1,4 +1,6 @@
-[![Algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=lnxhigh)](https://solved.ac/lnxhigh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnxhigh&layout=compact&private=false)
+
+![Algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=lnxhigh)
 
 <!--
 Here are some ideas to get you started:
