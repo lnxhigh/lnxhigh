@@ -1,8 +1,6 @@
-## Hi there 👋
+[![Algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=lnxhigh)](https://solved.ac/lnxhigh)
 
 <!--
-**lnxhigh/lnxhigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
