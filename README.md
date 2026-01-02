@@ -1,17 +1,17 @@
-### 🌠 Intro
+## 🌠 Intro
 
 Hello, I'm Sanghwa.
 
 I focus on software architecture, system optimization, and scalable code. \
 I aim to create software that solves real problems and provides real value.
 
-### 📊 Stats
+## 📊 Stats
 
 <!-- GitHub Readme Stats -->
 
 <img src="profile/stats.svg" />
 
-### 🛠️ Tech Stacks
+## 🛠️ Tech Stacks
 
 <!-- Languages -->
 
@@ -45,7 +45,7 @@ I aim to create software that solves real problems and provides real value.
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-#### 📦 Others
+### 📦 Others
 
 <!-- Languages -->
 
@@ -56,12 +56,12 @@ I aim to create software that solves real problems and provides real value.
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### 🧩 Problem Solving
+## 🧩 Problem Solving
 
 <!-- solved.ac -->
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lnxhigh" />
 
-### 📝 Posts
+## 📝 Posts
 
 - [R 프로그래밍 독학 자료 모음](https://blog.naver.com/lnxhigh/221764559893)
