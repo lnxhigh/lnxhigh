@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnxhigh&layout=compact&private=false)
+![Stats](profile/stats.svg)
 
 ![Algorithm](http://mazassumnida.wtf/api/v2/generate_badge?boj=lnxhigh)
 
