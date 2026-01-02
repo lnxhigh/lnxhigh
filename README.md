@@ -1,8 +1,8 @@
 <!-- Cards -->
 
 <p align="center">
-  <img src="profile/stats.svg" width="50%" hspace="2%" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lnxhigh" width="43%" />
+  <img src="profile/stats.svg" width="51%" hspace="2%" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lnxhigh" width="44%" />
 </p>
 
 <!--
