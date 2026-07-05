@@ -2,22 +2,21 @@
 
 Hello, I'm Sanghwa.
 
-I focus on software architecture, system optimization, and scalable code. \
-I aim to create software that solves real problems and provides real value.
-
 ## 📊 Stats
 
 <!-- GitHub Readme Stats -->
 
 <img src="profile/stats.svg" />
 
-## 🛠️ Tech Stacks
+## 🛠️ Technical Skills
 
 <!-- Languages -->
 
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
 <!-- Frameworks -->
@@ -50,17 +49,15 @@ I aim to create software that solves real problems and provides real value.
 <!-- Languages -->
 
 <p>
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
 </p>
 
 ## 🧩 Problem Solving
 
 <!-- solved.ac -->
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lnxhigh" />
+<img src="profile/baekjoon.png" width="50%" />
 
 ## 📝 Posts
 
